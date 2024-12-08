@@ -1,0 +1,14 @@
+.card-actions button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  .card-actions button:hover {
+    color: red; /* or any other color */
+  }
+  
+  .card-actions button:first-child {
+    margin-right: 10px;
+  }
